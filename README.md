@@ -3,7 +3,7 @@
 **`Front-end Developer`**
 
 I am a front-end web developer with a passion for all things web-related. I am a self-taught developer, I have always been fascinated by the world of coding and have spent countless hours studying and experimenting with different technologies, and i write technical articles on
-**``<a href="https://raunak-mishra.hashnode.dev/" target="_blank">Hashnode</a>``** as well.
+<a href="https://raunak-mishra.hashnode.dev/" target="_blank">**``Hashnode``**</a> as well.
 
 ---
 <h3> 🤝🏻 Connect with Me </h3>
