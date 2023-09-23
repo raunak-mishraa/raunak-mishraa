@@ -23,13 +23,13 @@ I am a front-end web developer with a passion for all things web-related. I am a
 
 <div align="center">
 
-![raunak-mshraa's Stats](https://github-readme-stats.vercel.app/api?username=raunak-mshraa&theme=radical&show_icons=true&hide_border=false&count_private=false)
+![raunak-mshraa's Stats](https://github-readme-stats.vercel.app/api?username=raunak-mishraa&theme=radical&show_icons=true&hide_border=false&count_private=false)
 
 </div>
 <div align="center">
   
-![raunak-mshraa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raunak-mshraa&theme=radical&hide_border=false)
-![raunak-mshraa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-mshraa&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![raunak-mshraa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raunak-mishraa&theme=radical&hide_border=false)
+![raunak-mshraa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-mishraa&theme=radical&show_icons=true&hide_border=false&layout=compact)
   
 </div>
   
