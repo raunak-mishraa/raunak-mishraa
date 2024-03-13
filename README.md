@@ -9,6 +9,7 @@ I am a front-end web developer with a passion for all things web-related. I am a
 <a href="https://raunak-mishra.hashnode.dev/" target="_blank">**``Hashnode``**</a> as well.
 
 <br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raunak-mishraa" alt="raunak-mishraa" /></a> </p>
 
 ---
 
