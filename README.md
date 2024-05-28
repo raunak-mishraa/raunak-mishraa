@@ -4,7 +4,7 @@ Hi 👋 My name is Raunak Mishra
 Full Stack Developer (MERN)
 ---------------------------
 
-I am a full stack web developer specializing in the MERN stack. My journey into coding began as a self-taught enthusiast, and over the years, I have honed my skills through relentless learning and experimentation with a variety of technologies. I am deeply passionate about creating dynamic and responsive web applications from the ground up. Additionally, I share my knowledge and insights by writing technical articles on
+I am a full stack web developer specializing in the MERN stack. My journey into coding began as a self-taught enthusiast, and over the years, I have honed my skills through relentless learning and experimentation with a variety of technologies. I am deeply passionate about creating dynamic and responsive web applications from the ground up. Additionally, I share my knowledge and insights by writing technical articles on <a href="https://raunak-mishra.hashnode.dev/" target="_blank">Hashnode</a>.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [raunakmishra.me](http://raunakmishra.me)
