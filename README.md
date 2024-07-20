@@ -15,7 +15,7 @@ src="https://img.shields.io/twitter/follow/Raunak_devs?logo=twitter&style=for-th
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,tailwind,sass,js,ts,react,redux,nextjs,nodejs,express,mongodb,figma,vscode,git,docker" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,tailwind,sass,js,ts,react,redux,nextjs,nodejs,express,mongodb,figma,vscode,git,docker" />
   </a>
 </p>
 
